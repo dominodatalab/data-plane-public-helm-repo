@@ -3,13 +3,13 @@ entries:
   auth-proxy:
   - apiVersion: v2
     appVersion: 1.20.1
-    created: "2022-10-27T17:23:50.727156-06:00"
+    created: "2022-10-27T18:05:02.337666-06:00"
     dependencies:
     - name: commonlib
       repository: oci://gcr.io/domino-eng-service-artifacts
       version: 0.13.5
     description: Authentication user proxy
-    digest: 4de45a973828ba7039ab151e47be7512c1f5e3936d0aee0e7cb4556f09dec06d
+    digest: c7d4a523a6d0e36c3a9d89315cafbf5f6f0590d6d365f844fb271685848d6c00
     home: https://wwww.dominodatalab.com
     name: auth-proxy
     sources:
@@ -26,7 +26,7 @@ entries:
         url: https://cert-manager.io/public-keys/cert-manager-keyring-2021-09-20-1020CF3C033D4F35BAE1C19E1226061C665DF13E.gpg
     apiVersion: v2
     appVersion: v1.9.0
-    created: "2022-10-27T17:23:50.730818-06:00"
+    created: "2022-10-27T18:05:02.340948-06:00"
     dependencies:
     - name: commonlib
       repository: oci://gcr.io/domino-eng-service-artifacts
@@ -50,7 +50,7 @@ entries:
   commonlib:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-10-27T17:23:50.731146-06:00"
+    created: "2022-10-27T18:05:02.341212-06:00"
     description: A Helm chart for Kubernetes
     digest: 72a679a169a0a71f9bb5000a15d50b06a93dcc8fd7ff394e9873ac2f47de50d4
     name: commonlib
@@ -61,7 +61,7 @@ entries:
   data-plane:
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2022-10-27T17:23:50.725793-06:00"
+    created: "2022-10-27T18:05:02.336954-06:00"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -99,7 +99,7 @@ entries:
       repository: oci://gcr.io/domino-eng-service-artifacts
       version: 0.3.4
     description: Domino data plane umbrella chart.
-    digest: ee78b1e0695f26add6bbb6a03ae69654a8f452a20a9277b8b355d1b8862fcf92
+    digest: 1273942a53e29b14704103e62c4f9e0ba7ee377a01914699ec4a5b8ce6cda51a
     name: data-plane
     type: application
     urls:
@@ -108,7 +108,7 @@ entries:
   datasource-proxy:
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2022-10-27T17:23:50.732196-06:00"
+    created: "2022-10-27T18:05:02.342109-06:00"
     dependencies:
     - name: commonlib
       repository: oci://gcr.io/domino-eng-service-artifacts
@@ -126,7 +126,7 @@ entries:
   distributed-compute-operator:
   - apiVersion: v2
     appVersion: v0.6.13
-    created: "2022-10-27T17:23:50.733813-06:00"
+    created: "2022-10-27T18:05:02.346807-06:00"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -147,13 +147,13 @@ entries:
   domino-data-plane-agent:
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2022-10-27T17:23:50.734505-06:00"
+    created: "2022-10-27T18:05:02.347192-06:00"
     dependencies:
     - name: commonlib
       repository: oci://gcr.io/domino-eng-service-artifacts
       version: 0.13.5
     description: A Helm chart for the Domino Kubernetes Agent
-    digest: e4db7418f1fb5dff7ac8b9b5bdf5f728692c0efaf025fdb9b7b0e9cf014da95e
+    digest: 2da2d01fd4d1d4aa2e95428af92a3e82d9347b0b3b774db34f885473473b2410
     name: domino-data-plane-agent
     type: application
     urls:
@@ -162,7 +162,7 @@ entries:
   fluentd:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2022-10-27T17:23:50.736116-06:00"
+    created: "2022-10-27T18:05:02.348791-06:00"
     dependencies:
     - name: commonlib
       repository: oci://gcr.io/domino-eng-service-artifacts
@@ -181,7 +181,7 @@ entries:
           description: "Allow probes to be turned off completly (this is not advised unless you know what you're doing)."
     apiVersion: v2
     appVersion: 0.6.1
-    created: "2022-10-27T17:23:50.737633-06:00"
+    created: "2022-10-27T18:05:02.350071-06:00"
     dependencies:
     - name: commonlib
       repository: oci://gcr.io/domino-eng-service-artifacts
@@ -209,21 +209,10 @@ entries:
     urls:
     - charts/metrics-server-3.8.2-0.2.0.tgz
     version: 3.8.2-0.2.0
-  my-app-config:
-  - apiVersion: v2
-    appVersion: 1.0.0
-    created: "2022-10-27T17:23:50.738097-06:00"
-    description: A Helm chart for Kubernetes
-    digest: 2c32149e7f616028c17bafa9a9b99195afd1d042c759abc4f97accbb419f53e8
-    name: my-app-config
-    type: application
-    urls:
-    - charts/my-app-config-1.0.0.tgz
-    version: 1.0.0
   nvidia-device-plugin:
   - apiVersion: v2
     appVersion: 0.12.3
-    created: "2022-10-27T17:23:50.739389-06:00"
+    created: "2022-10-27T18:05:02.351324-06:00"
     dependencies:
     - name: commonlib
       repository: oci://gcr.io/domino-eng-service-artifacts
@@ -237,4 +226,4 @@ entries:
     urls:
     - charts/nvidia-device-plugin-0.12.3-0.0.1.tgz
     version: 0.12.3-0.0.1
-generated: "2022-10-27T17:23:50.698729-06:00"
+generated: "2022-10-27T18:05:02.319347-06:00"
