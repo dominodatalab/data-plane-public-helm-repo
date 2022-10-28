@@ -3,7 +3,7 @@ entries:
   auth-proxy:
   - apiVersion: v2
     appVersion: 1.20.1
-    created: "2022-10-28T02:16:27.443538105Z"
+    created: "2022-10-28T02:16:29.265620916Z"
     dependencies:
     - name: commonlib
       repository: oci://gcr.io/domino-eng-service-artifacts
@@ -26,7 +26,7 @@ entries:
         url: https://cert-manager.io/public-keys/cert-manager-keyring-2021-09-20-1020CF3C033D4F35BAE1C19E1226061C665DF13E.gpg
     apiVersion: v2
     appVersion: v1.9.0
-    created: "2022-10-28T02:16:27.454204562Z"
+    created: "2022-10-28T02:16:29.283047679Z"
     dependencies:
     - name: commonlib
       repository: oci://gcr.io/domino-eng-service-artifacts
@@ -50,7 +50,7 @@ entries:
   commonlib:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-10-28T02:16:27.454809119Z"
+    created: "2022-10-28T02:16:29.283569415Z"
     description: A Helm chart for Kubernetes
     digest: 72a679a169a0a71f9bb5000a15d50b06a93dcc8fd7ff394e9873ac2f47de50d4
     name: commonlib
@@ -108,7 +108,7 @@ entries:
   datasource-proxy:
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2022-10-28T02:16:27.45670935Z"
+    created: "2022-10-28T02:16:29.28552344Z"
     dependencies:
     - name: commonlib
       repository: oci://gcr.io/domino-eng-service-artifacts
@@ -126,7 +126,7 @@ entries:
   distributed-compute-operator:
   - apiVersion: v2
     appVersion: v0.6.13
-    created: "2022-10-28T02:16:27.459093525Z"
+    created: "2022-10-28T02:16:29.288019044Z"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -147,7 +147,7 @@ entries:
   domino-data-plane-agent:
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2022-10-28T02:16:27.460266302Z"
+    created: "2022-10-28T02:16:29.289223144Z"
     dependencies:
     - name: commonlib
       repository: oci://gcr.io/domino-eng-service-artifacts
@@ -162,7 +162,7 @@ entries:
   fluentd:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2022-10-28T02:16:27.463102639Z"
+    created: "2022-10-28T02:16:29.292050982Z"
     dependencies:
     - name: commonlib
       repository: oci://gcr.io/domino-eng-service-artifacts
@@ -181,7 +181,7 @@ entries:
           description: "Allow probes to be turned off completly (this is not advised unless you know what you're doing)."
     apiVersion: v2
     appVersion: 0.6.1
-    created: "2022-10-28T02:16:27.465892229Z"
+    created: "2022-10-28T02:16:29.294824234Z"
     dependencies:
     - name: commonlib
       repository: oci://gcr.io/domino-eng-service-artifacts
@@ -212,7 +212,7 @@ entries:
   nvidia-device-plugin:
   - apiVersion: v2
     appVersion: 0.12.3
-    created: "2022-10-28T02:16:27.468613944Z"
+    created: "2022-10-28T02:16:29.297528954Z"
     dependencies:
     - name: commonlib
       repository: oci://gcr.io/domino-eng-service-artifacts
@@ -226,4 +226,4 @@ entries:
     urls:
     - https://dominodatalab.github.io/data-plane-public-helm-repo/charts/charts/nvidia-device-plugin-0.12.3-0.0.1.tgz
     version: 0.12.3-0.0.1
-generated: "2022-10-28T02:16:27.441654589Z"
+generated: "2022-10-28T02:16:29.263195081Z"
