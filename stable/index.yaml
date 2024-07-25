@@ -3,7 +3,7 @@ entries:
   data-plane:
   - apiVersion: v2
     appVersion: 999.5.6
-    created: "2024-07-18T22:15:35.824531455Z"
+    created: "2024-07-25T02:48:18.225889118Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -49,7 +49,7 @@ entries:
     version: 999.5.6
   - apiVersion: v2
     appVersion: 999.5.5
-    created: "2024-07-18T22:15:35.808335774Z"
+    created: "2024-07-25T02:48:18.211185318Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -95,7 +95,7 @@ entries:
     version: 999.5.5
   - apiVersion: v2
     appVersion: 999.5.4
-    created: "2024-07-18T22:15:35.789849547Z"
+    created: "2024-07-25T02:48:18.196083304Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -141,7 +141,7 @@ entries:
     version: 999.5.4
   - apiVersion: v2
     appVersion: 999.0.2
-    created: "2024-07-18T22:15:35.770729912Z"
+    created: "2024-07-25T02:48:18.18073823Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -199,7 +199,7 @@ entries:
     version: 999.0.2
   - apiVersion: v2
     appVersion: 5.7.0-14
-    created: "2024-07-18T22:15:35.746947911Z"
+    created: "2024-07-25T02:48:18.158988206Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -249,7 +249,7 @@ entries:
     version: 5.7.0
   - apiVersion: v2
     appVersion: 5.7.0-14
-    created: "2024-07-18T22:15:35.551602152Z"
+    created: "2024-07-25T02:48:17.998237836Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -299,7 +299,7 @@ entries:
     version: 5.7.0-14
   - apiVersion: v2
     appVersion: 5.7.0-13
-    created: "2024-07-18T22:15:35.518514853Z"
+    created: "2024-07-25T02:48:17.978641851Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -349,7 +349,7 @@ entries:
     version: 5.7.0-13
   - apiVersion: v2
     appVersion: 5.7.0-12
-    created: "2024-07-18T22:15:35.495333392Z"
+    created: "2024-07-25T02:48:17.958535527Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -399,7 +399,7 @@ entries:
     version: 5.7.0-12
   - apiVersion: v2
     appVersion: 5.7.0-11
-    created: "2024-07-18T22:15:35.471143323Z"
+    created: "2024-07-25T02:48:17.937997559Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -449,7 +449,7 @@ entries:
     version: 5.7.0-11
   - apiVersion: v2
     appVersion: 5.7.0-10
-    created: "2024-07-18T22:15:35.443142059Z"
+    created: "2024-07-25T02:48:17.91754272Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -499,7 +499,7 @@ entries:
     version: 5.7.0-10
   - apiVersion: v2
     appVersion: 5.7.0-9
-    created: "2024-07-18T22:15:35.717237855Z"
+    created: "2024-07-25T02:48:18.13440568Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -545,7 +545,7 @@ entries:
     version: 5.7.0-9
   - apiVersion: v2
     appVersion: 5.7.0-8
-    created: "2024-07-18T22:15:35.702313636Z"
+    created: "2024-07-25T02:48:18.119077618Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -591,7 +591,7 @@ entries:
     version: 5.7.0-8
   - apiVersion: v2
     appVersion: 5.7.0-7
-    created: "2024-07-18T22:15:35.684705627Z"
+    created: "2024-07-25T02:48:18.102309111Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -637,7 +637,7 @@ entries:
     version: 5.7.0-7
   - apiVersion: v2
     appVersion: 5.7.0-6
-    created: "2024-07-18T22:15:35.661216882Z"
+    created: "2024-07-25T02:48:18.087111213Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -683,7 +683,7 @@ entries:
     version: 5.7.0-6
   - apiVersion: v2
     appVersion: 5.7.0-5
-    created: "2024-07-18T22:15:35.640937478Z"
+    created: "2024-07-25T02:48:18.069185984Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -729,7 +729,7 @@ entries:
     version: 5.7.0-5
   - apiVersion: v2
     appVersion: 5.7.0-4
-    created: "2024-07-18T22:15:35.615269066Z"
+    created: "2024-07-25T02:48:18.050852935Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -775,7 +775,7 @@ entries:
     version: 5.7.0-4
   - apiVersion: v2
     appVersion: 5.7.0-3
-    created: "2024-07-18T22:15:35.591069875Z"
+    created: "2024-07-25T02:48:18.033586379Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -821,7 +821,7 @@ entries:
     version: 5.7.0-3
   - apiVersion: v2
     appVersion: 5.7.0-2
-    created: "2024-07-18T22:15:35.57530236Z"
+    created: "2024-07-25T02:48:18.015659163Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -867,7 +867,7 @@ entries:
     version: 5.7.0-2
   - apiVersion: v2
     appVersion: 5.7.0-1
-    created: "2024-07-18T22:15:35.413731984Z"
+    created: "2024-07-25T02:48:17.896993385Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -913,7 +913,7 @@ entries:
     version: 5.7.0-1
   - apiVersion: v2
     appVersion: 5.7.0-0
-    created: "2024-07-18T22:15:35.39769368Z"
+    created: "2024-07-25T02:48:17.88091569Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -959,7 +959,7 @@ entries:
     version: 5.7.0-0
   - apiVersion: v2
     appVersion: 5.6.2-0
-    created: "2024-07-18T22:15:35.381634586Z"
+    created: "2024-07-25T02:48:17.865898257Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -1005,7 +1005,7 @@ entries:
     version: 5.6.2
   - apiVersion: v2
     appVersion: 5.6.2-0
-    created: "2024-07-18T22:15:35.357637279Z"
+    created: "2024-07-25T02:48:17.85154589Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -1051,7 +1051,7 @@ entries:
     version: 5.6.2-0
   - apiVersion: v2
     appVersion: 5.6.1-1
-    created: "2024-07-18T22:15:35.332236145Z"
+    created: "2024-07-25T02:48:17.835669295Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -1097,7 +1097,7 @@ entries:
     version: 5.6.1
   - apiVersion: v2
     appVersion: 5.6.1-1
-    created: "2024-07-18T22:15:35.317485245Z"
+    created: "2024-07-25T02:48:17.818726038Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -1143,7 +1143,7 @@ entries:
     version: 5.6.1-1
   - apiVersion: v2
     appVersion: 5.6.1-0
-    created: "2024-07-18T22:15:35.301771163Z"
+    created: "2024-07-25T02:48:17.804321087Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -1189,7 +1189,7 @@ entries:
     version: 5.6.1-0
   - apiVersion: v2
     appVersion: 5.6.0-9
-    created: "2024-07-18T22:15:35.277912133Z"
+    created: "2024-07-25T02:48:17.788658293Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -1235,7 +1235,7 @@ entries:
     version: 5.6.0
   - apiVersion: v2
     appVersion: 5.6.0-9
-    created: "2024-07-18T22:15:35.258084087Z"
+    created: "2024-07-25T02:48:17.773669959Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -1281,7 +1281,7 @@ entries:
     version: 5.6.0-9
   - apiVersion: v2
     appVersion: 5.6.0-8
-    created: "2024-07-18T22:15:35.233871244Z"
+    created: "2024-07-25T02:48:17.757121325Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -1327,7 +1327,7 @@ entries:
     version: 5.6.0-8
   - apiVersion: v2
     appVersion: 5.6.0-7
-    created: "2024-07-18T22:15:35.209390664Z"
+    created: "2024-07-25T02:48:17.740473889Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -1373,7 +1373,7 @@ entries:
     version: 5.6.0-7
   - apiVersion: v2
     appVersion: 5.6.0-6
-    created: "2024-07-18T22:15:35.189980683Z"
+    created: "2024-07-25T02:48:17.724708724Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -1419,7 +1419,7 @@ entries:
     version: 5.6.0-6
   - apiVersion: v2
     appVersion: 5.6.0-5
-    created: "2024-07-18T22:15:35.170711419Z"
+    created: "2024-07-25T02:48:17.70167662Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -1465,7 +1465,7 @@ entries:
     version: 5.6.0-5
   - apiVersion: v2
     appVersion: 5.6.0-4
-    created: "2024-07-18T22:15:35.155091549Z"
+    created: "2024-07-25T02:48:17.684800609Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -1511,7 +1511,7 @@ entries:
     version: 5.6.0-4
   - apiVersion: v2
     appVersion: 5.6.0-3
-    created: "2024-07-18T22:15:35.132707035Z"
+    created: "2024-07-25T02:48:17.670243552Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -1557,7 +1557,7 @@ entries:
     version: 5.6.0-3
   - apiVersion: v2
     appVersion: 5.6.0-2
-    created: "2024-07-18T22:15:35.112432584Z"
+    created: "2024-07-25T02:48:17.655509198Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -1603,7 +1603,7 @@ entries:
     version: 5.6.0-2
   - apiVersion: v2
     appVersion: 5.6.0-1
-    created: "2024-07-18T22:15:35.090195657Z"
+    created: "2024-07-25T02:48:17.640936348Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -1649,7 +1649,7 @@ entries:
     version: 5.6.0-1
   - apiVersion: v2
     appVersion: 5.6.0-0
-    created: "2024-07-18T22:15:35.074667272Z"
+    created: "2024-07-25T02:48:17.626358405Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -1695,7 +1695,7 @@ entries:
     version: 5.6.0-0
   - apiVersion: v2
     appVersion: 5.5.4-1
-    created: "2024-07-18T22:15:35.051496118Z"
+    created: "2024-07-25T02:48:17.611657026Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -1741,7 +1741,7 @@ entries:
     version: 5.5.4
   - apiVersion: v2
     appVersion: 5.5.4-1
-    created: "2024-07-18T22:15:35.033362616Z"
+    created: "2024-07-25T02:48:17.59760416Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -1787,7 +1787,7 @@ entries:
     version: 5.5.4-1
   - apiVersion: v2
     appVersion: 5.5.4-0
-    created: "2024-07-18T22:15:35.017029367Z"
+    created: "2024-07-25T02:48:17.582853024Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -1833,7 +1833,7 @@ entries:
     version: 5.5.4-0
   - apiVersion: v2
     appVersion: 5.5.3-2
-    created: "2024-07-18T22:15:35.001435877Z"
+    created: "2024-07-25T02:48:17.567186257Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -1879,7 +1879,7 @@ entries:
     version: 5.5.3
   - apiVersion: v2
     appVersion: 5.5.3-2
-    created: "2024-07-18T22:15:34.978638444Z"
+    created: "2024-07-25T02:48:17.552785055Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -1925,7 +1925,7 @@ entries:
     version: 5.5.3-2
   - apiVersion: v2
     appVersion: 5.5.3-1
-    created: "2024-07-18T22:15:34.959347102Z"
+    created: "2024-07-25T02:48:17.538063735Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -1975,7 +1975,7 @@ entries:
     version: 5.5.3-1
   - apiVersion: v2
     appVersion: 5.5.3-0
-    created: "2024-07-18T22:15:34.937306786Z"
+    created: "2024-07-25T02:48:17.516725708Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -2021,7 +2021,7 @@ entries:
     version: 5.5.3-0
   - apiVersion: v2
     appVersion: 5.5.2-1
-    created: "2024-07-18T22:15:34.921531818Z"
+    created: "2024-07-25T02:48:17.501679535Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -2067,7 +2067,7 @@ entries:
     version: 5.5.2
   - apiVersion: v2
     appVersion: 5.5.2-1
-    created: "2024-07-18T22:15:34.906653902Z"
+    created: "2024-07-25T02:48:17.483438602Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -2113,7 +2113,7 @@ entries:
     version: 5.5.2-1
   - apiVersion: v2
     appVersion: 5.5.2-0
-    created: "2024-07-18T22:15:34.890504369Z"
+    created: "2024-07-25T02:48:17.468806044Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -2159,7 +2159,7 @@ entries:
     version: 5.5.2-0
   - apiVersion: v2
     appVersion: 5.5.1-1
-    created: "2024-07-18T22:15:34.866131077Z"
+    created: "2024-07-25T02:48:17.454396342Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -2205,7 +2205,7 @@ entries:
     version: 5.5.1
   - apiVersion: v2
     appVersion: 5.5.1-1
-    created: "2024-07-18T22:15:34.851891901Z"
+    created: "2024-07-25T02:48:17.440030872Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -2251,7 +2251,7 @@ entries:
     version: 5.5.1-1
   - apiVersion: v2
     appVersion: 5.5.0-16
-    created: "2024-07-18T22:15:34.835891089Z"
+    created: "2024-07-25T02:48:17.425390116Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -2297,7 +2297,7 @@ entries:
     version: 5.5.0
   - apiVersion: v2
     appVersion: 5.5.0-16
-    created: "2024-07-18T22:15:34.690130279Z"
+    created: "2024-07-25T02:48:17.283245871Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -2343,7 +2343,7 @@ entries:
     version: 5.5.0-16
   - apiVersion: v2
     appVersion: 5.5.0-15
-    created: "2024-07-18T22:15:34.675086829Z"
+    created: "2024-07-25T02:48:17.268906614Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -2389,7 +2389,7 @@ entries:
     version: 5.5.0-15
   - apiVersion: v2
     appVersion: 5.5.0-14
-    created: "2024-07-18T22:15:34.659233077Z"
+    created: "2024-07-25T02:48:17.254000358Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -2435,7 +2435,7 @@ entries:
     version: 5.5.0-14
   - apiVersion: v2
     appVersion: 5.5.0-13
-    created: "2024-07-18T22:15:34.644121405Z"
+    created: "2024-07-25T02:48:17.237666282Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -2481,7 +2481,7 @@ entries:
     version: 5.5.0-13
   - apiVersion: v2
     appVersion: 5.5.0-12
-    created: "2024-07-18T22:15:34.628966611Z"
+    created: "2024-07-25T02:48:17.223125766Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -2527,7 +2527,7 @@ entries:
     version: 5.5.0-12
   - apiVersion: v2
     appVersion: 5.5.0-11
-    created: "2024-07-18T22:15:34.60548727Z"
+    created: "2024-07-25T02:48:17.20874858Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -2573,7 +2573,7 @@ entries:
     version: 5.5.0-11
   - apiVersion: v2
     appVersion: 5.5.0-10
-    created: "2024-07-18T22:15:34.586891132Z"
+    created: "2024-07-25T02:48:17.193977889Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -2619,7 +2619,7 @@ entries:
     version: 5.5.0-10
   - apiVersion: v2
     appVersion: 5.5.0-9
-    created: "2024-07-18T22:15:34.813499396Z"
+    created: "2024-07-25T02:48:17.410838495Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -2665,7 +2665,7 @@ entries:
     version: 5.5.0-9
   - apiVersion: v2
     appVersion: 5.5.0-8
-    created: "2024-07-18T22:15:34.798469024Z"
+    created: "2024-07-25T02:48:17.395855003Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -2711,7 +2711,7 @@ entries:
     version: 5.5.0-8
   - apiVersion: v2
     appVersion: 5.5.0-7
-    created: "2024-07-18T22:15:34.783280689Z"
+    created: "2024-07-25T02:48:17.381225404Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -2757,7 +2757,7 @@ entries:
     version: 5.5.0-7
   - apiVersion: v2
     appVersion: 5.5.0-6
-    created: "2024-07-18T22:15:34.766735054Z"
+    created: "2024-07-25T02:48:17.366866615Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -2803,7 +2803,7 @@ entries:
     version: 5.5.0-6
   - apiVersion: v2
     appVersion: 5.5.0-5
-    created: "2024-07-18T22:15:34.752163638Z"
+    created: "2024-07-25T02:48:17.351383782Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -2849,7 +2849,7 @@ entries:
     version: 5.5.0-5
   - apiVersion: v2
     appVersion: 5.5.0-4
-    created: "2024-07-18T22:15:34.736565003Z"
+    created: "2024-07-25T02:48:17.334358988Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -2895,7 +2895,7 @@ entries:
     version: 5.5.0-4
   - apiVersion: v2
     appVersion: 5.5.0-3
-    created: "2024-07-18T22:15:34.720336335Z"
+    created: "2024-07-25T02:48:17.312789081Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -2941,7 +2941,7 @@ entries:
     version: 5.5.0-3
   - apiVersion: v2
     appVersion: 5.5.0-2
-    created: "2024-07-18T22:15:34.705023791Z"
+    created: "2024-07-25T02:48:17.298250532Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -2987,7 +2987,7 @@ entries:
     version: 5.5.0-2
   - apiVersion: v2
     appVersion: 5.5.0-1
-    created: "2024-07-18T22:15:34.571328688Z"
+    created: "2024-07-25T02:48:17.179958157Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -3033,7 +3033,7 @@ entries:
     version: 5.5.0-1
   - apiVersion: v2
     appVersion: 5.5.0-0
-    created: "2024-07-18T22:15:34.556869363Z"
+    created: "2024-07-25T02:48:17.160571122Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -3079,7 +3079,7 @@ entries:
     version: 5.5.0-0
   - apiVersion: v2
     appVersion: 5.4.1-0
-    created: "2024-07-18T22:15:34.541465735Z"
+    created: "2024-07-25T02:48:17.144604712Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -3125,7 +3125,7 @@ entries:
     version: 5.4.1
   - apiVersion: v2
     appVersion: 5.4.1-0
-    created: "2024-07-18T22:15:34.525010538Z"
+    created: "2024-07-25T02:48:17.13011196Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -3171,7 +3171,7 @@ entries:
     version: 5.4.1-0
   - apiVersion: v2
     appVersion: 5.4.0-35
-    created: "2024-07-18T22:15:34.510448296Z"
+    created: "2024-07-25T02:48:17.115974921Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -3217,7 +3217,7 @@ entries:
     version: 5.4.0
   - apiVersion: v2
     appVersion: 5.4.0-35
-    created: "2024-07-18T22:15:34.49406273Z"
+    created: "2024-07-25T02:48:17.101534209Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -3263,7 +3263,7 @@ entries:
     version: 5.4.0-35
   - apiVersion: v2
     appVersion: 5.4.0-32
-    created: "2024-07-18T22:15:34.477083417Z"
+    created: "2024-07-25T02:48:17.086578226Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -3309,7 +3309,7 @@ entries:
     version: 5.4.0-32
   - apiVersion: v2
     appVersion: 5.4.0-31
-    created: "2024-07-18T22:15:34.461438098Z"
+    created: "2024-07-25T02:48:17.06378883Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -3355,7 +3355,7 @@ entries:
     version: 5.4.0-31
   - apiVersion: v2
     appVersion: 5.4.0-30
-    created: "2024-07-18T22:15:34.446682622Z"
+    created: "2024-07-25T02:48:17.047207909Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -3401,7 +3401,7 @@ entries:
     version: 5.4.0-30
   - apiVersion: v2
     appVersion: 5.4.0-29
-    created: "2024-07-18T22:15:34.431408394Z"
+    created: "2024-07-25T02:48:17.031086832Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -3447,7 +3447,7 @@ entries:
     version: 5.4.0-29
   - apiVersion: v2
     appVersion: 5.4.0-28
-    created: "2024-07-18T22:15:34.407849054Z"
+    created: "2024-07-25T02:48:17.016519847Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -3493,7 +3493,7 @@ entries:
     version: 5.4.0-28
   - apiVersion: v2
     appVersion: 5.4.0-27
-    created: "2024-07-18T22:15:34.388233327Z"
+    created: "2024-07-25T02:48:17.002337981Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -3539,7 +3539,7 @@ entries:
     version: 5.4.0-27
   - apiVersion: v2
     appVersion: 5.4.0-26
-    created: "2024-07-18T22:15:34.369446229Z"
+    created: "2024-07-25T02:48:16.98706112Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -3585,7 +3585,7 @@ entries:
     version: 5.4.0-26
   - apiVersion: v2
     appVersion: 5.4.0-25
-    created: "2024-07-18T22:15:34.352464907Z"
+    created: "2024-07-25T02:48:16.971123576Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -3631,7 +3631,7 @@ entries:
     version: 5.4.0-25
   - apiVersion: v2
     appVersion: 5.4.0-24
-    created: "2024-07-18T22:15:34.335501582Z"
+    created: "2024-07-25T02:48:16.955645868Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -3676,8 +3676,70 @@ entries:
     - https://dominodatalab.github.io/data-plane-public-helm-repo/stable/data-plane-5.4.0-24.tgz
     version: 5.4.0-24
   - apiVersion: v2
+    appVersion: 3.1.24
+    created: "2024-07-25T02:48:16.767356155Z"
+    dependencies:
+    - alias: agent
+      name: domino-data-plane-agent
+      repository: file://../data-plane-agent
+      version: '*'
+    - condition: agent.enable_workloads
+      name: workloads
+      repository: oci://gcr.io/domino-eng-service-artifacts
+      version: 0.4.10
+    - condition: agent.enable_sagemaker_model_deployments
+      name: pham-juno-operator
+      repository: oci://gcr.io/domino-eng-service-artifacts
+      version: 0.1.56
+    - condition: nvidia-device-plugin.enabled
+      name: nvidia-device-plugin
+      repository: oci://gcr.io/domino-eng-service-artifacts
+      version: 0.15.0-r2
+    - condition: metrics-server.enabled
+      name: metrics-server
+      repository: oci://gcr.io/domino-eng-service-artifacts
+      version: 3.12.0-r6
+    - condition: global.dataPlane.remote
+      name: fluentd
+      repository: oci://gcr.io/domino-eng-service-artifacts
+      version: 2.3.2-r6
+    - condition: global.dataPlane.remote
+      name: nginx-ingress
+      repository: oci://gcr.io/domino-eng-service-artifacts
+      version: 4.10.1-0.0.1
+    - condition: global.dataPlane.remote
+      name: auth-proxy
+      repository: file://../auth-proxy
+      version: '*'
+    - name: commonlib
+      repository: oci://gcr.io/domino-eng-service-artifacts
+      version: 0.13.14
+    - condition: global.dataPlane.remote
+      name: cert-manager
+      repository: oci://gcr.io/domino-eng-service-artifacts
+      version: 1.14.5-r3
+    - condition: global.dataPlane.remote
+      name: distributed-compute-operator
+      repository: oci://gcr.io/domino-eng-service-artifacts
+      version: 0.10.7
+    - condition: global.dataPlane.remote
+      name: datasource-proxy
+      repository: oci://gcr.io/domino-eng-service-artifacts
+      version: 0.4.5
+    - alias: upgrader
+      name: domino-data-plane-upgrader
+      repository: file://../data-plane-upgrader
+      version: '*'
+    description: Domino data plane umbrella chart.
+    digest: b3099b724dc420678ffa35bf13da2cdc0cd63161b2f0ff5850a746fef3f37b18
+    name: data-plane
+    type: application
+    urls:
+    - https://dominodatalab.github.io/data-plane-public-helm-repo/stable/data-plane-3.1.24.tgz
+    version: 3.1.24
+  - apiVersion: v2
     appVersion: 3.1.23
-    created: "2024-07-18T22:15:34.137562341Z"
+    created: "2024-07-25T02:48:16.741616651Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -3739,7 +3801,7 @@ entries:
     version: 3.1.23
   - apiVersion: v2
     appVersion: 3.1.22
-    created: "2024-07-18T22:15:34.107902128Z"
+    created: "2024-07-25T02:48:16.711881754Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -3801,7 +3863,7 @@ entries:
     version: 3.1.22
   - apiVersion: v2
     appVersion: 3.1.21
-    created: "2024-07-18T22:15:34.073360113Z"
+    created: "2024-07-25T02:48:16.682198015Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -3863,7 +3925,7 @@ entries:
     version: 3.1.21
   - apiVersion: v2
     appVersion: 3.1.20
-    created: "2024-07-18T22:15:34.048254528Z"
+    created: "2024-07-25T02:48:16.656509021Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -3925,7 +3987,7 @@ entries:
     version: 3.1.20
   - apiVersion: v2
     appVersion: 3.1.18
-    created: "2024-07-18T22:15:33.992680319Z"
+    created: "2024-07-25T02:48:16.606557289Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -3991,7 +4053,7 @@ entries:
     version: 3.1.18
   - apiVersion: v2
     appVersion: 3.1.16-3
-    created: "2024-07-18T22:15:33.958494072Z"
+    created: "2024-07-25T02:48:16.571820406Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -4057,7 +4119,7 @@ entries:
     version: 3.1.16
   - apiVersion: v2
     appVersion: 3.1.16-3
-    created: "2024-07-18T22:15:33.919708402Z"
+    created: "2024-07-25T02:48:16.545273732Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -4123,7 +4185,7 @@ entries:
     version: 3.1.16-3
   - apiVersion: v2
     appVersion: 3.1.16-2
-    created: "2024-07-18T22:15:33.890549394Z"
+    created: "2024-07-25T02:48:16.514971763Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -4189,7 +4251,7 @@ entries:
     version: 3.1.16-2
   - apiVersion: v2
     appVersion: 3.1.16-1
-    created: "2024-07-18T22:15:33.856695002Z"
+    created: "2024-07-25T02:48:16.48645515Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -4255,7 +4317,7 @@ entries:
     version: 3.1.16-1
   - apiVersion: v2
     appVersion: 3.1.15
-    created: "2024-07-18T22:15:33.82158674Z"
+    created: "2024-07-25T02:48:16.457056556Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -4317,7 +4379,7 @@ entries:
     version: 3.1.15
   - apiVersion: v2
     appVersion: 3.1.14
-    created: "2024-07-18T22:15:33.795373238Z"
+    created: "2024-07-25T02:48:16.432248289Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -4379,7 +4441,7 @@ entries:
     version: 3.1.14
   - apiVersion: v2
     appVersion: 3.1.13
-    created: "2024-07-18T22:15:33.769510886Z"
+    created: "2024-07-25T02:48:16.406893049Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -4441,7 +4503,7 @@ entries:
     version: 3.1.13
   - apiVersion: v2
     appVersion: 3.1.12
-    created: "2024-07-18T22:15:33.742012897Z"
+    created: "2024-07-25T02:48:16.382554419Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -4503,7 +4565,7 @@ entries:
     version: 3.1.12
   - apiVersion: v2
     appVersion: 3.1.11
-    created: "2024-07-18T22:15:33.71301175Z"
+    created: "2024-07-25T02:48:16.357868881Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -4565,7 +4627,7 @@ entries:
     version: 3.1.11
   - apiVersion: v2
     appVersion: 3.1.10-4
-    created: "2024-07-18T22:15:33.677633271Z"
+    created: "2024-07-25T02:48:16.333100193Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -4627,7 +4689,7 @@ entries:
     version: 3.1.10
   - apiVersion: v2
     appVersion: 3.1.10-4
-    created: "2024-07-18T22:15:33.648553841Z"
+    created: "2024-07-25T02:48:16.307999944Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -4689,7 +4751,7 @@ entries:
     version: 3.1.10-4
   - apiVersion: v2
     appVersion: 3.1.10-2
-    created: "2024-07-18T22:15:33.622192061Z"
+    created: "2024-07-25T02:48:16.283472802Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -4751,7 +4813,7 @@ entries:
     version: 3.1.10-2
   - apiVersion: v2
     appVersion: 3.1.10-1
-    created: "2024-07-18T22:15:33.585898385Z"
+    created: "2024-07-25T02:48:16.25836817Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -4813,7 +4875,7 @@ entries:
     version: 3.1.10-1
   - apiVersion: v2
     appVersion: 3.1.9
-    created: "2024-07-18T22:15:34.320281475Z"
+    created: "2024-07-25T02:48:16.93910467Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -4875,7 +4937,7 @@ entries:
     version: 3.1.9
   - apiVersion: v2
     appVersion: 3.1.7
-    created: "2024-07-18T22:15:34.290494912Z"
+    created: "2024-07-25T02:48:16.912082372Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -4937,7 +4999,7 @@ entries:
     version: 3.1.7
   - apiVersion: v2
     appVersion: 3.1.6
-    created: "2024-07-18T22:15:34.262179739Z"
+    created: "2024-07-25T02:48:16.885390208Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -4999,7 +5061,7 @@ entries:
     version: 3.1.6
   - apiVersion: v2
     appVersion: 3.1.5
-    created: "2024-07-18T22:15:34.23645518Z"
+    created: "2024-07-25T02:48:16.852083359Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -5061,7 +5123,7 @@ entries:
     version: 3.1.5
   - apiVersion: v2
     appVersion: 3.1.4
-    created: "2024-07-18T22:15:34.202734303Z"
+    created: "2024-07-25T02:48:16.819477896Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -5123,7 +5185,7 @@ entries:
     version: 3.1.4
   - apiVersion: v2
     appVersion: 3.1.3
-    created: "2024-07-18T22:15:34.173370516Z"
+    created: "2024-07-25T02:48:16.79461925Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -5185,7 +5247,7 @@ entries:
     version: 3.1.3
   - apiVersion: v2
     appVersion: 3.1.2
-    created: "2024-07-18T22:15:34.021268997Z"
+    created: "2024-07-25T02:48:16.631918379Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -5247,7 +5309,7 @@ entries:
     version: 3.1.2
   - apiVersion: v2
     appVersion: 3.1.1
-    created: "2024-07-18T22:15:33.553696841Z"
+    created: "2024-07-25T02:48:16.227018654Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -5309,7 +5371,7 @@ entries:
     version: 3.1.1
   - apiVersion: v2
     appVersion: 3.0.0
-    created: "2024-07-18T22:15:33.520832927Z"
+    created: "2024-07-25T02:48:16.199836899Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -5371,7 +5433,7 @@ entries:
     version: 3.0.0
   - apiVersion: v2
     appVersion: 2.1.5871--43adece2db6b8a627d603a505c3aef8f5e8cb3ba
-    created: "2024-07-18T22:15:33.371096783Z"
+    created: "2024-07-25T02:48:16.073512809Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -5429,7 +5491,7 @@ entries:
     version: 2.1.5871
   - apiVersion: v2
     appVersion: 2.1.5871--43adece2db6b8a627d603a505c3aef8f5e8cb3ba
-    created: "2024-07-18T22:15:33.340535747Z"
+    created: "2024-07-25T02:48:16.049757181Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -5487,7 +5549,7 @@ entries:
     version: 2.1.5871--43adece2db6b8a627d603a505c3aef8f5e8cb3ba
   - apiVersion: v2
     appVersion: 2.1.40
-    created: "2024-07-18T22:15:33.287327213Z"
+    created: "2024-07-25T02:48:16.002630159Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -5549,7 +5611,7 @@ entries:
     version: 2.1.40
   - apiVersion: v2
     appVersion: 2.1.39
-    created: "2024-07-18T22:15:33.237649267Z"
+    created: "2024-07-25T02:48:15.939764172Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -5611,7 +5673,7 @@ entries:
     version: 2.1.39
   - apiVersion: v2
     appVersion: 2.1.38
-    created: "2024-07-18T22:15:33.210780543Z"
+    created: "2024-07-25T02:48:15.911164885Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -5673,7 +5735,7 @@ entries:
     version: 2.1.38
   - apiVersion: v2
     appVersion: 2.1.36
-    created: "2024-07-18T22:15:33.182697049Z"
+    created: "2024-07-25T02:48:15.880177571Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -5735,7 +5797,7 @@ entries:
     version: 2.1.36
   - apiVersion: v2
     appVersion: 2.1.34
-    created: "2024-07-18T22:15:33.151487364Z"
+    created: "2024-07-25T02:48:15.850539324Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -5793,7 +5855,7 @@ entries:
     version: 2.1.34
   - apiVersion: v2
     appVersion: 2.1.33
-    created: "2024-07-18T22:15:33.111401944Z"
+    created: "2024-07-25T02:48:15.825857949Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -5851,7 +5913,7 @@ entries:
     version: 2.1.33
   - apiVersion: v2
     appVersion: 2.1.32
-    created: "2024-07-18T22:15:33.079192559Z"
+    created: "2024-07-25T02:48:15.802181946Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -5909,7 +5971,7 @@ entries:
     version: 2.1.32
   - apiVersion: v2
     appVersion: 2.1.31
-    created: "2024-07-18T22:15:33.057264055Z"
+    created: "2024-07-25T02:48:15.779428565Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -5967,7 +6029,7 @@ entries:
     version: 2.1.31
   - apiVersion: v2
     appVersion: 2.1.30
-    created: "2024-07-18T22:15:33.027583582Z"
+    created: "2024-07-25T02:48:15.756779751Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -6025,7 +6087,7 @@ entries:
     version: 2.1.30
   - apiVersion: v2
     appVersion: 2.1.29
-    created: "2024-07-18T22:15:32.964543061Z"
+    created: "2024-07-25T02:48:15.706756828Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -6083,7 +6145,7 @@ entries:
     version: 2.1.29
   - apiVersion: v2
     appVersion: 2.1.28
-    created: "2024-07-18T22:15:32.936419153Z"
+    created: "2024-07-25T02:48:15.685024585Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -6141,7 +6203,7 @@ entries:
     version: 2.1.28
   - apiVersion: v2
     appVersion: 2.1.27
-    created: "2024-07-18T22:15:32.903743647Z"
+    created: "2024-07-25T02:48:15.662895969Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -6199,7 +6261,7 @@ entries:
     version: 2.1.27
   - apiVersion: v2
     appVersion: 2.1.26
-    created: "2024-07-18T22:15:32.880824848Z"
+    created: "2024-07-25T02:48:15.638950646Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -6257,7 +6319,7 @@ entries:
     version: 2.1.26
   - apiVersion: v2
     appVersion: 2.1.25
-    created: "2024-07-18T22:15:32.857084734Z"
+    created: "2024-07-25T02:48:15.614341247Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -6315,7 +6377,7 @@ entries:
     version: 2.1.25
   - apiVersion: v2
     appVersion: 2.1.24
-    created: "2024-07-18T22:15:32.824470263Z"
+    created: "2024-07-25T02:48:15.593118365Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -6373,7 +6435,7 @@ entries:
     version: 2.1.24
   - apiVersion: v2
     appVersion: 2.1.23
-    created: "2024-07-18T22:15:32.791594479Z"
+    created: "2024-07-25T02:48:15.570946966Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -6431,7 +6493,7 @@ entries:
     version: 2.1.23
   - apiVersion: v2
     appVersion: 2.1.22
-    created: "2024-07-18T22:15:32.764923222Z"
+    created: "2024-07-25T02:48:15.548910654Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -6489,7 +6551,7 @@ entries:
     version: 2.1.22
   - apiVersion: v2
     appVersion: 2.1.21
-    created: "2024-07-18T22:15:32.739400908Z"
+    created: "2024-07-25T02:48:15.527110534Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -6547,7 +6609,7 @@ entries:
     version: 2.1.21
   - apiVersion: v2
     appVersion: 2.1.20-9
-    created: "2024-07-18T22:15:32.716684316Z"
+    created: "2024-07-25T02:48:15.505937805Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -6605,7 +6667,7 @@ entries:
     version: 2.1.20
   - apiVersion: v2
     appVersion: 2.1.20-9
-    created: "2024-07-18T22:15:32.691882465Z"
+    created: "2024-07-25T02:48:15.479963005Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -6663,7 +6725,7 @@ entries:
     version: 2.1.20-9
   - apiVersion: v2
     appVersion: 2.1.20-8
-    created: "2024-07-18T22:15:32.665331939Z"
+    created: "2024-07-25T02:48:15.455782951Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -6721,7 +6783,7 @@ entries:
     version: 2.1.20-8
   - apiVersion: v2
     appVersion: 2.1.20-7
-    created: "2024-07-18T22:15:32.628887694Z"
+    created: "2024-07-25T02:48:15.431077441Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -6779,7 +6841,7 @@ entries:
     version: 2.1.20-7
   - apiVersion: v2
     appVersion: 2.1.20-6
-    created: "2024-07-18T22:15:32.604114716Z"
+    created: "2024-07-25T02:48:15.407649367Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -6837,7 +6899,7 @@ entries:
     version: 2.1.20-6
   - apiVersion: v2
     appVersion: 2.1.20-5
-    created: "2024-07-18T22:15:32.578768006Z"
+    created: "2024-07-25T02:48:15.383338712Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -6895,7 +6957,7 @@ entries:
     version: 2.1.20-5
   - apiVersion: v2
     appVersion: 2.1.20-4
-    created: "2024-07-18T22:15:32.545123232Z"
+    created: "2024-07-25T02:48:15.355100488Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -6953,7 +7015,7 @@ entries:
     version: 2.1.20-4
   - apiVersion: v2
     appVersion: 2.1.19
-    created: "2024-07-18T22:15:32.483167329Z"
+    created: "2024-07-25T02:48:15.306085392Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -7011,7 +7073,7 @@ entries:
     version: 2.1.19
   - apiVersion: v2
     appVersion: 2.1.18
-    created: "2024-07-18T22:15:32.459313478Z"
+    created: "2024-07-25T02:48:15.275412689Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -7069,7 +7131,7 @@ entries:
     version: 2.1.18
   - apiVersion: v2
     appVersion: 2.1.17
-    created: "2024-07-18T22:15:32.426691819Z"
+    created: "2024-07-25T02:48:15.254457546Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -7127,7 +7189,7 @@ entries:
     version: 2.1.17
   - apiVersion: v2
     appVersion: 2.1.16
-    created: "2024-07-18T22:15:32.400598305Z"
+    created: "2024-07-25T02:48:15.232598617Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -7185,7 +7247,7 @@ entries:
     version: 2.1.16
   - apiVersion: v2
     appVersion: 2.1.15
-    created: "2024-07-18T22:15:32.371163268Z"
+    created: "2024-07-25T02:48:15.21140471Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -7243,7 +7305,7 @@ entries:
     version: 2.1.15
   - apiVersion: v2
     appVersion: 2.1.14
-    created: "2024-07-18T22:15:32.34813966Z"
+    created: "2024-07-25T02:48:15.189068321Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -7301,7 +7363,7 @@ entries:
     version: 2.1.14
   - apiVersion: v2
     appVersion: 2.1.13
-    created: "2024-07-18T22:15:32.324711558Z"
+    created: "2024-07-25T02:48:15.166683516Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -7359,7 +7421,7 @@ entries:
     version: 2.1.13
   - apiVersion: v2
     appVersion: 2.1.12
-    created: "2024-07-18T22:15:32.29499189Z"
+    created: "2024-07-25T02:48:15.144500695Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -7417,7 +7479,7 @@ entries:
     version: 2.1.12
   - apiVersion: v2
     appVersion: 2.1.11
-    created: "2024-07-18T22:15:32.268158801Z"
+    created: "2024-07-25T02:48:15.11824642Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -7475,7 +7537,7 @@ entries:
     version: 2.1.11
   - apiVersion: v2
     appVersion: 2.1.10
-    created: "2024-07-18T22:15:32.241450931Z"
+    created: "2024-07-25T02:48:15.090725752Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -7533,7 +7595,7 @@ entries:
     version: 2.1.10
   - apiVersion: v2
     appVersion: 2.1.9
-    created: "2024-07-18T22:15:33.495316579Z"
+    created: "2024-07-25T02:48:16.168442819Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -7591,7 +7653,7 @@ entries:
     version: 2.1.9
   - apiVersion: v2
     appVersion: 2.1.8
-    created: "2024-07-18T22:15:33.465173272Z"
+    created: "2024-07-25T02:48:16.139665172Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -7649,7 +7711,7 @@ entries:
     version: 2.1.8
   - apiVersion: v2
     appVersion: 2.1.7
-    created: "2024-07-18T22:15:33.434180662Z"
+    created: "2024-07-25T02:48:16.117632627Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -7707,7 +7769,7 @@ entries:
     version: 2.1.7
   - apiVersion: v2
     appVersion: 2.1.6
-    created: "2024-07-18T22:15:33.403306427Z"
+    created: "2024-07-25T02:48:16.094957008Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -7765,7 +7827,7 @@ entries:
     version: 2.1.6
   - apiVersion: v2
     appVersion: 2.1.5
-    created: "2024-07-18T22:15:33.309830492Z"
+    created: "2024-07-25T02:48:16.025772029Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -7823,7 +7885,7 @@ entries:
     version: 2.1.5
   - apiVersion: v2
     appVersion: 2.1.4
-    created: "2024-07-18T22:15:33.261614166Z"
+    created: "2024-07-25T02:48:15.967322643Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -7881,7 +7943,7 @@ entries:
     version: 2.1.4
   - apiVersion: v2
     appVersion: 2.1.3
-    created: "2024-07-18T22:15:32.99200525Z"
+    created: "2024-07-25T02:48:15.728442648Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -7939,7 +8001,7 @@ entries:
     version: 2.1.3
   - apiVersion: v2
     appVersion: 2.1.2
-    created: "2024-07-18T22:15:32.507401552Z"
+    created: "2024-07-25T02:48:15.329860443Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -7997,7 +8059,7 @@ entries:
     version: 2.1.2
   - apiVersion: v2
     appVersion: 2.1.1
-    created: "2024-07-18T22:15:32.206699933Z"
+    created: "2024-07-25T02:48:15.069329407Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -8055,7 +8117,7 @@ entries:
     version: 2.1.1
   - apiVersion: v2
     appVersion: 2.1.0
-    created: "2024-07-18T22:15:32.180628403Z"
+    created: "2024-07-25T02:48:15.047868945Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -8113,7 +8175,7 @@ entries:
     version: 2.1.0
   - apiVersion: v2
     appVersion: 1.5.22
-    created: "2024-07-18T22:15:31.974752709Z"
+    created: "2024-07-25T02:48:14.875885394Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -8171,7 +8233,7 @@ entries:
     version: 1.5.22
   - apiVersion: v2
     appVersion: 1.5.21
-    created: "2024-07-18T22:15:31.947711886Z"
+    created: "2024-07-25T02:48:14.849317835Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -8229,7 +8291,7 @@ entries:
     version: 1.5.21
   - apiVersion: v2
     appVersion: 1.5.20
-    created: "2024-07-18T22:15:31.915421474Z"
+    created: "2024-07-25T02:48:14.822511532Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -8287,7 +8349,7 @@ entries:
     version: 1.5.20
   - apiVersion: v2
     appVersion: 1.5.19
-    created: "2024-07-18T22:15:31.868583651Z"
+    created: "2024-07-25T02:48:14.776976642Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -8345,7 +8407,7 @@ entries:
     version: 1.5.19
   - apiVersion: v2
     appVersion: 1.5.18
-    created: "2024-07-18T22:15:31.839139046Z"
+    created: "2024-07-25T02:48:14.754322142Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -8403,7 +8465,7 @@ entries:
     version: 1.5.18
   - apiVersion: v2
     appVersion: 1.5.17
-    created: "2024-07-18T22:15:31.815492808Z"
+    created: "2024-07-25T02:48:14.730567308Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -8461,7 +8523,7 @@ entries:
     version: 1.5.17
   - apiVersion: v2
     appVersion: 1.5.16
-    created: "2024-07-18T22:15:31.78887299Z"
+    created: "2024-07-25T02:48:14.708520306Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -8519,7 +8581,7 @@ entries:
     version: 1.5.16
   - apiVersion: v2
     appVersion: 1.5.15
-    created: "2024-07-18T22:15:31.765022993Z"
+    created: "2024-07-25T02:48:14.683302572Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -8577,7 +8639,7 @@ entries:
     version: 1.5.15
   - apiVersion: v2
     appVersion: 1.5.14
-    created: "2024-07-18T22:15:31.733314046Z"
+    created: "2024-07-25T02:48:14.660010823Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -8635,7 +8697,7 @@ entries:
     version: 1.5.14
   - apiVersion: v2
     appVersion: 1.5.13
-    created: "2024-07-18T22:15:31.697358322Z"
+    created: "2024-07-25T02:48:14.636947294Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -8693,7 +8755,7 @@ entries:
     version: 1.5.13
   - apiVersion: v2
     appVersion: 1.5.12
-    created: "2024-07-18T22:15:31.674984405Z"
+    created: "2024-07-25T02:48:14.614656187Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -8751,7 +8813,7 @@ entries:
     version: 1.5.12
   - apiVersion: v2
     appVersion: 1.5.11
-    created: "2024-07-18T22:15:31.651907544Z"
+    created: "2024-07-25T02:48:14.592969195Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -8809,7 +8871,7 @@ entries:
     version: 1.5.11
   - apiVersion: v2
     appVersion: 1.5.10
-    created: "2024-07-18T22:15:31.625137404Z"
+    created: "2024-07-25T02:48:14.570657882Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -8867,7 +8929,7 @@ entries:
     version: 1.5.10
   - apiVersion: v2
     appVersion: 1.5.9
-    created: "2024-07-18T22:15:32.158662747Z"
+    created: "2024-07-25T02:48:15.026109675Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -8925,7 +8987,7 @@ entries:
     version: 1.5.9
   - apiVersion: v2
     appVersion: 1.5.8
-    created: "2024-07-18T22:15:32.130929671Z"
+    created: "2024-07-25T02:48:15.003862607Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -8983,7 +9045,7 @@ entries:
     version: 1.5.8
   - apiVersion: v2
     appVersion: 1.5.7
-    created: "2024-07-18T22:15:32.106909771Z"
+    created: "2024-07-25T02:48:14.983179274Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -9041,7 +9103,7 @@ entries:
     version: 1.5.7
   - apiVersion: v2
     appVersion: 1.5.6
-    created: "2024-07-18T22:15:32.079530424Z"
+    created: "2024-07-25T02:48:14.961450573Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -9099,7 +9161,7 @@ entries:
     version: 1.5.6
   - apiVersion: v2
     appVersion: 1.5.5
-    created: "2024-07-18T22:15:32.049479213Z"
+    created: "2024-07-25T02:48:14.940741348Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -9157,7 +9219,7 @@ entries:
     version: 1.5.5
   - apiVersion: v2
     appVersion: 1.5.4
-    created: "2024-07-18T22:15:32.023024479Z"
+    created: "2024-07-25T02:48:14.919973536Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -9215,7 +9277,7 @@ entries:
     version: 1.5.4
   - apiVersion: v2
     appVersion: 1.5.3
-    created: "2024-07-18T22:15:32.000643938Z"
+    created: "2024-07-25T02:48:14.897981788Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -9273,7 +9335,7 @@ entries:
     version: 1.5.3
   - apiVersion: v2
     appVersion: 1.5.2
-    created: "2024-07-18T22:15:31.890825729Z"
+    created: "2024-07-25T02:48:14.798965132Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -9331,7 +9393,7 @@ entries:
     version: 1.5.2
   - apiVersion: v2
     appVersion: 1.5.1
-    created: "2024-07-18T22:15:31.592451874Z"
+    created: "2024-07-25T02:48:14.54998456Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -9389,7 +9451,7 @@ entries:
     version: 1.5.1
   - apiVersion: v2
     appVersion: 1.5.0
-    created: "2024-07-18T22:15:31.569298481Z"
+    created: "2024-07-25T02:48:14.528454858Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -9447,7 +9509,7 @@ entries:
     version: 1.5.0
   - apiVersion: v2
     appVersion: 1.4.2
-    created: "2024-07-18T22:15:31.54686742Z"
+    created: "2024-07-25T02:48:14.507180329Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -9505,7 +9567,7 @@ entries:
     version: 1.4.2
   - apiVersion: v2
     appVersion: 1.4.0
-    created: "2024-07-18T22:15:31.52380111Z"
+    created: "2024-07-25T02:48:14.485232583Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -9563,7 +9625,7 @@ entries:
     version: 1.4.0
   - apiVersion: v2
     appVersion: 1.3.1
-    created: "2024-07-18T22:15:31.496444526Z"
+    created: "2024-07-25T02:48:14.464432146Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -9621,7 +9683,7 @@ entries:
     version: 1.3.1
   - apiVersion: v2
     appVersion: 1.3.0
-    created: "2024-07-18T22:15:31.462014727Z"
+    created: "2024-07-25T02:48:14.438936449Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -9675,7 +9737,7 @@ entries:
     version: 1.3.0
   - apiVersion: v2
     appVersion: 1.2.1
-    created: "2024-07-18T22:15:31.434549438Z"
+    created: "2024-07-25T02:48:14.41762221Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -9729,7 +9791,7 @@ entries:
     version: 1.2.1
   - apiVersion: v2
     appVersion: 1.2.0
-    created: "2024-07-18T22:15:31.413450493Z"
+    created: "2024-07-25T02:48:14.397501903Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -9783,7 +9845,7 @@ entries:
     version: 1.2.0
   - apiVersion: v2
     appVersion: 1.1.3
-    created: "2024-07-18T22:15:31.392374278Z"
+    created: "2024-07-25T02:48:14.376955283Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -9833,7 +9895,7 @@ entries:
     version: 1.1.3
   - apiVersion: v2
     appVersion: 1.1.2
-    created: "2024-07-18T22:15:31.370323754Z"
+    created: "2024-07-25T02:48:14.357165345Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -9883,7 +9945,7 @@ entries:
     version: 1.1.2
   - apiVersion: v2
     appVersion: 1.1.1
-    created: "2024-07-18T22:15:31.349895518Z"
+    created: "2024-07-25T02:48:14.337379153Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -9933,7 +9995,7 @@ entries:
     version: 1.1.1
   - apiVersion: v2
     appVersion: 1.1.0
-    created: "2024-07-18T22:15:31.323398845Z"
+    created: "2024-07-25T02:48:14.31798785Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -9983,7 +10045,7 @@ entries:
     version: 1.1.0
   - apiVersion: v2
     appVersion: 0.0.0-czito.HBD-658.public-helm-repo.3f6fec606de00fd481cd259b7caf49911db06195-SNAPSHOT
-    created: "2024-07-18T22:15:31.302427522Z"
+    created: "2024-07-25T02:48:14.297497919Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -10029,7 +10091,7 @@ entries:
     version: 0.0.0
   - apiVersion: v2
     appVersion: 0.0.0-czito.HBD-658.public-helm-repo.a78d98307287d0e51e3c846e66dace16fb130507-SNAPSHOT
-    created: "2024-07-18T22:15:31.287560806Z"
+    created: "2024-07-25T02:48:14.275722134Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -10075,7 +10137,7 @@ entries:
     version: 0.0.0-czito.HBD-658.public-helm-repo.a78d98307287d0e51e3c846e66dace16fb130507-SNAPSHOT
   - apiVersion: v2
     appVersion: 0.0.0-czito.HBD-658.public-helm-repo.3f6fec606de00fd481cd259b7caf49911db06195-SNAPSHOT
-    created: "2024-07-18T22:15:31.265650413Z"
+    created: "2024-07-25T02:48:14.261139937Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -10121,7 +10183,7 @@ entries:
     version: 0.0.0-czito.HBD-658.public-helm-repo.3f6fec606de00fd481cd259b7caf49911db06195-SNAPSHOT
   - apiVersion: v2
     appVersion: 0.0.0-czito.HBD-658.public-helm-repo.0b98e88c591e238d3a609e6787c3c6ef0bace9f7-SNAPSHOT
-    created: "2024-07-18T22:15:31.24805161Z"
+    created: "2024-07-25T02:48:14.244579374Z"
     dependencies:
     - alias: agent
       name: domino-data-plane-agent
@@ -10165,4 +10227,4 @@ entries:
     urls:
     - https://dominodatalab.github.io/data-plane-public-helm-repo/stable/data-plane-0.0.0-czito.HBD-658.public-helm-repo.0b98e88c591e238d3a609e6787c3c6ef0bace9f7-SNAPSHOT.tgz
     version: 0.0.0-czito.HBD-658.public-helm-repo.0b98e88c591e238d3a609e6787c3c6ef0bace9f7-SNAPSHOT
-generated: "2024-07-18T22:15:31.223217012Z"
+generated: "2024-07-25T02:48:14.228492806Z"
